@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/fb.mahadialam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fb.mahadialam" height="30" width="40" /></a>
-<a href="https://instagram.com/mahadialam_sumon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahadialam_sumon" height="30" width="40" /></a>
+<a href="https://fb.com/mahadialambd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fb.mahadialam" height="30" width="40" /></a>
+<a href="https://instagram.com/mahadialambd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahadialam_sumon" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@mahaditech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mahaditech" height="30" width="40" /></a>
 </p>
 
